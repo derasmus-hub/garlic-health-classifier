@@ -1,3 +1,9 @@
+# Visual Studio (locks files like .vsidx)
+.vs/
+*.suo
+*.user
+*.VC.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
